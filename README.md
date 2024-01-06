@@ -4,7 +4,7 @@
 ### Overview
 This is an entity-level sentiment analysis dataset of twitter. Given a message and an entity, the task is to judge the sentiment of the message about the entity. There are three classes in this dataset: Positive, Negative and Neutral. We regard messages that are not relevant to the entity (i.e. Irrelevant) as Neutral.
 
-You can download Dataset in Kaggle : [Twitter Sentiment Analysis](https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis/data)
+You can view or download Dataset in Kaggle : [Twitter Sentiment Analysis](https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis/data)
 
 ## Project Description
 Welcome to the Natural Language Processing (NLP) project, employing Long Short-Term Memory (LSTM) for robust multiclass text classification. This project adheres to specific criteria, delivering a powerful solution for understanding and categorizing textual data.
