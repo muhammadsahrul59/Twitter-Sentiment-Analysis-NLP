@@ -1,4 +1,4 @@
-# Twitter Sentiment Analysis - NLP with LSTM for Multiclass Text Classification✨
+# Twitter Sentiment Analysis - NLP with TensorFlow✨
 
 ## About Dataset
 ### Overview
